@@ -37,7 +37,7 @@ nav {
   justify-content: space-around;
   align-items: center;
   height: 17vh;
-  background-color: #7469B6;
+  background-color: rgb(85, 85, 85);
 }
 
 .nav-links {
