@@ -53,7 +53,7 @@ a {
 }
 
 a:hover {
-  color: white;
+  color: rgb(0, 0, 0);
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
@@ -408,6 +408,7 @@ article .icon {
   gap: 0.5rem;
   margin: 1rem;
 }
+
 
 .contact-info-container p {
   font-size: larger;
